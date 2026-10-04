@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/JARVIS/app/src/main/kotlin/com/jarvis/assistant/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 5135,
+          "line": 196
+        },
+        "start": {
+          "column": 1,
+          "index": 5135,
+          "line": 196
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/JARVIS/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 730,
+          "line": 24
+        },
+        "start": {
+          "column": 11,
+          "index": 730,
+          "line": 24
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/JARVIS/app/src/main/kotlin/com/jarvis/assistant/MainActivity.kt"
+}
